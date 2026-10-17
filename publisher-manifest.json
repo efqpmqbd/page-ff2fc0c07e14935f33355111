@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "9c31caa3debde091df8bd938",
+  "owner": "efqpmqbd",
+  "repo": "page-ff2fc0c07e14935f33355111",
+  "title": "cnrocket",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ff2fc0c07e14935f33355111",
+      "a": "cnrocket",
+      "b": "",
+      "entity": "cnrocket",
+      "brand": "cnrocket",
+      "separator": "",
+      "path": "index.html",
+      "hash": "66821f67d3db964cf28cea491c91d195096148eae7f79380914df42d58ca6689",
+      "content": {
+        "keyword1": "cnrocket",
+        "keyword2": "",
+        "primary_entity": "cnrocket",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "cnrocket 提供稳定高效的网络传输与数据中转服务。清晰的计费方案、严谨的节点架构与实用的配置指南。",
+          "AI_DESCRIPTION": "cnrocket 提供稳定高效的网络传输与数据中转服务。清晰的计费方案、严谨的节点架构与实用的配置指南。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f3f4f6;--text-main: #1f2937;--text-muted: #4b5563;--accent: #7c3aed;--accent-light: #f5f3ff;--card-bg: #ffffff;--border-color: #cbd5e1}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;background-color: var(--bg-color);color: var(--text-main);line-height: 1.6}\n\n.sr-only {position: absolute;width: 1px;height: 1px;padding: 0;margin: -1px;overflow: hidden;clip: rect(0, 0, 0, 0);white-space: nowrap;border: 0}\n\nheader {background-color: #111827;color: #ffffff;padding: 1.5rem 2rem;display: flex;justify-content: space-between;align-items: center}\n\n.logo {font-size: 1.5rem;font-weight: 700;letter-spacing: -0.05em;color: #a78bfa}\n\n.quick-links {display: flex;gap: 1.5rem;list-style: none}\n\n.quick-links a {color: #e5e7eb;text-decoration: none;font-size: 0.9rem}\n\n.quick-links a:hover {color: #ffffff;text-decoration: underline}\n\nmain {display: flex;flex-direction: column}\n\n.band {width: 100%;padding: 5rem 2rem}\n\n.band-1 {background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 100%);color: #ffffff;text-align: center}\n\n.band-1 h1 {font-size: 3rem;margin-bottom: 1rem;font-weight: 800;letter-spacing: -0.02em}\n\n.band-1 p {font-size: 1.25rem;max-width: 600px;margin: 0 auto 2rem auto;opacity: 0.9}\n\n.cta-buttons {display: flex;justify-content: center;gap: 1rem}\n\n.btn {display: inline-block;padding: 0.75rem 1.5rem;border-radius: 0.375rem;font-weight: 600;text-decoration: none;transition: background-color 0.2s}\n\n.btn-primary {background-color: #ffffff;color: #4c1d95}\n\n.btn-primary:hover {background-color: #f3f4f6}\n\n.btn-secondary {background-color: transparent;color: #ffffff;border: 1px solid rgba(255,255,255,0.4)}\n\n.btn-secondary:hover {border-color: #ffffff}\n\n.band-2 {background-color: #ffffff}\n\n.container {max-width: 1000px;margin: 0 auto}\n\nh2 {font-size: 2rem;margin-bottom: 2rem;text-align: center;color: #111827}\n\n.grid-facts {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n\n.ticket-card {background: var(--card-bg);border: 2px dashed var(--border-color);padding: 2rem;position: relative;border-radius: 4px}\n\n.ticket-card h3 {font-size: 1.25rem;margin-bottom: 0.75rem;color: #111827}\n\n.ticket-card p {color: var(--text-muted);font-size: 0.95rem}\n\n.band-3 {background-color: #e5e7eb}\n\n.plans-stack {display: flex;flex-direction: column;gap: 2rem;max-width: 700px;margin: 0 auto}\n\n.plan-card {background: #ffffff;border: 2px dashed var(--border-color);border-radius: 4px;padding: 2.5rem;position: relative}\n\n.plan-card.featured {border-color: var(--accent);border-style: solid;background-color: var(--accent-light)}\n\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1.5rem;border-bottom: 1px solid var(--border-color);padding-bottom: 1rem}\n\n.plan-name {font-size: 1.5rem;font-weight: 700}\n\n.plan-price {font-size: 1.25rem;font-weight: 600;color: var(--accent)}\n\n.plan-features {list-style: none;margin-bottom: 2rem}\n\n.plan-features li {padding: 0.5rem 0;color: var(--text-muted);border-bottom: 1px solid #f3f4f6;font-size: 0.95rem}\n\n.plan-features li::before {content: \"— \";color: var(--accent);font-weight: bold}\n\n.band-4 {background-color: #ffffff}\n\n.faq-list {max-width: 800px;margin: 0 auto;display: flex;flex-direction: column;gap: 1rem}\n\n.faq-item {border: 1px solid var(--border-color);border-radius: 4px;background: #ffffff;overflow: hidden}\n\n.faq-item summary {padding: 1.25rem;font-weight: 600;cursor: pointer;background: #f9fafb}\n\n.faq-item summary:hover {background: #f3f4f6}\n\n.faq-content {padding: 1.25rem;color: var(--text-muted);font-size: 0.95rem;border-top: 1px solid var(--border-color)}\n\nfooter {background-color: #111827;color: #9ca3af;text-align: center;padding: 3rem 2rem;font-size: 0.875rem}\n\nfooter p {margin-bottom: 0.5rem}\n\n@media (max-width: 768px) {\n  .band-1 h1 {font-size: 2.25rem}\n  .band {padding: 3rem 1rem}\n}\n</style><header>\n  <div class=\"logo\">cnrocket</div>\n  <ul class=\"quick-links\">\n    <li><a href=\"#features\">核心特性</a></li>\n    <li><a href=\"#plans\">服务套餐</a></li>\n    <li><a href=\"#faq\">常见问题</a></li>\n  </ul>\n</header>\n\n<main>\n  \n  <section class=\"band band-1\">\n    <div class=\"container\">\n      <h1>cnrocket 网络传输与数据中转服务</h1>\n      <p>面向开发者与企业用户的稳定网络传输方案。提供多线路优化配置、清晰的计费结构与高效的数据中转支持。</p>\n      <div class=\"cta-buttons\">\n        <a href=\"#plans\" class=\"btn btn-primary\">查看套餐</a>\n        <a href=\"#faq\" class=\"btn btn-secondary\">了解详情</a>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"features\" class=\"band band-2\">\n    <div class=\"container\">\n      <h2>服务规范与技术特性</h2>\n      <div class=\"grid-facts\">\n        <div class=\"ticket-card\">\n          <h3>多路负载均衡</h3>\n          <p>系统自动检测并分发流量至多条可用通道，降低单点故障风险，保障链路持续通畅。</p>\n        </div>\n        <div class=\"ticket-card\">\n          <h3>透明流量结算</h3>\n          <p>所有套餐流量额度按自然月度周期清算，实时面板显示消耗明细，无隐藏扣费条款。</p>\n        </div>\n        <div class=\"ticket-card\">\n          <h3>自定义路由规则</h3>\n          <p>支持根据目标地址类型分流，满足复杂网络环境下的精细化数据传输需求。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"plans\" class=\"band band-3\">\n    <div class=\"container\">\n      <h2>服务套餐与价格</h2>\n      <div class=\"plans-stack\">\n        \n        <div class=\"plan-card\">\n          <div class=\"plan-header\">\n            <span class=\"plan-name\">基础版</span>\n            <span class=\"plan-price\">¥15/月</span>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n          <a href=\"#\" class=\"btn btn-primary\">选择基础版</a>\n        </div>\n\n        <div class=\"plan-card featured\">\n          <div class=\"plan-header\">\n            <span class=\"plan-name\">旗舰版 (推荐)</span>\n            <span class=\"plan-price\">¥35/月</span>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n          <a href=\"#\" class=\"btn btn-primary\">选择旗舰版</a>\n        </div>\n\n        <div class=\"plan-card\">\n          <div class=\"plan-header\">\n            <span class=\"plan-name\">团队版</span>\n            <span class=\"plan-price\">¥85/月</span>\n          </div>\n          <ul class=\"plan-features\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n          <a href=\"#\" class=\"btn btn-primary\">选择团队版</a>\n        </div>\n\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"faq\" class=\"band band-4\">\n    <div class=\"container\">\n      <h2>常见问题解答</h2>\n      <div class=\"faq-list\">\n        \n        <details class=\"faq-item\">\n          <summary>购买后如何获取节点配置信息？</summary>\n          <div class=\"faq-content\">\n            登录用户中心后，系统会根据您购买的套餐自动生成对应的订阅链接。您可将其复制并导入至主流兼容客户端中完成配置同步。\n          </div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>流量额度是否可以结转至下个月？</summary>\n          <div class=\"faq-content\">\n            不可以。所有套餐内包含的流量额度均为按月重置型，未使用的流量将在每月的结算日清零，不累计到下一个计费周期。\n          </div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>支持哪些主流客户端软件？</summary>\n          <div class=\"faq-content\">\n            cnrocket 兼容当前主流的各类开源与商业客户端，包括但不限于 Clash 系列、Shadowrocket、Surge 以及 v2rayN 等。具体配置教程可在文档中心查阅。\n          </div>\n        </details>\n\n        <details class=\"faq-item\">\n          <summary>如遇到连接中断应如何处理？</summary>\n          <div class=\"faq-content\">\n            首先请检查本地网络环境及订阅链接是否为最新状态。如确认客户端无误，可通过用户后台提交工单，技术支持团队将在 24 小时内存取日志并协助排查。\n          </div>\n        </details>\n\n      </div>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <p>© cnrocket. All rights reserved.</p>\n  <p>稳定可靠的网络传输与数据中转服务提供商</p>\n</footer>",
+          "hash": "7da4661e3b8c1292cd68291973ac3fafcf7e41f4cf7f6bc97514fc6d649d4b32",
+          "seo": {
+            "title": "cnrocket - 稳定高效的网络传输与数据中转服务",
+            "keywords": "cnrocket, 网络中转, 数据传输, 专线加速, 节点服务",
+            "description": "cnrocket 提供稳定高效的网络传输与数据中转服务。清晰的计费方案、严谨的节点架构与实用的配置指南。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "143",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "besjk.cn",
+    "host": "p-7346cad4dc.besjk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8fc807cd79e4506803f79b74c3b4d20703540e3849c03740f12a4ffe59f1a330",
+    "sitemap.xml": "df1e88ae0a10198f913c2f1abfcaf594a1be91b1bc387813c2b812a7dcc44ac1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "842b70e097433a8c30290b1f3658962325d2a19a13217f04bb6e2597cf627608",
+    "robots.txt": "92cd83d3aad13234a1980ebce2b3d1cdfd99fbf8f861a5b6ce0071db33cef057",
+    "0e8b30847e21386e7100ed068a8681eb.txt": "85553d0f4bcf49553ce7957f893c194e3aa889223c48f13ef094d50d87d569a8"
+  },
+  "revision": "fec77bac75de214a7796e45665268b77415d1218b97026786675b2060e536dac"
+}

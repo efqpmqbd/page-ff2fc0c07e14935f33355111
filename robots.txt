@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7346cad4dc.besjk.cn/sitemap.xml
